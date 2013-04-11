@@ -1,4 +1,4 @@
-snowflake-id
+snowflake-id [![Build Status](https://travis-ci.org/komiya-atsushi/snowflake-id.png)](https://travis-ci.org/komiya-atsushi/snowflake-id)
 ============
 
 Twitter's Snowflake ID to Time conversion module.
