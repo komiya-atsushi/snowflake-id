@@ -29,7 +29,7 @@ puts SnowflakeId.new(321239371296694272).to_time  # => 'Mon Apr 08 12:33:29.113 
 
 # Time object to snowflake
 require 'time'
-puts Time.parse('Mon Apr 08 12:33:29.113 +0000 2013').to_snowflake  # => 321239370822582272
+puts Time.parse('Mon Apr 08 12:33:29.113 +0000 2013').to_snowflake  # => 321239371296538624
 ```
 
 Contributing
